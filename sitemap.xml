@@ -2,20 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hobbysalike.com/</loc>
-    <lastmod>2022-08-23T13:24:17-04:00</lastmod>
+    <loc>https://hobbysalike.com/blog/my-first-post/</loc>
   </url><url>
-    <loc>https://hobbysalike.com/posts/</loc>
-    <lastmod>2022-08-23T13:24:17-04:00</lastmod>
+    <loc>https://hobbysalike.com/youtube-uploads/my-first-video/</loc>
   </url><url>
-    <loc>https://hobbysalike.com/posts/this-is-here/</loc>
-    <lastmod>2022-08-23T13:24:17-04:00</lastmod>
+    <loc>https://hobbysalike.com/about/</loc>
   </url><url>
-    <loc>https://hobbysalike.com/posts/my-first-post/</loc>
-    <lastmod>2022-08-23T10:58:45-04:00</lastmod>
+    <loc>https://hobbysalike.com/blog/</loc>
   </url><url>
     <loc>https://hobbysalike.com/categories/</loc>
   </url><url>
+    <loc>https://hobbysalike.com/</loc>
+  </url><url>
+    <loc>https://hobbysalike.com/series/</loc>
+  </url><url>
     <loc>https://hobbysalike.com/tags/</loc>
+  </url><url>
+    <loc>https://hobbysalike.com/youtube-uploads/</loc>
   </url>
 </urlset>
