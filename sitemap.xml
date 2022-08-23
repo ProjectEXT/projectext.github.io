@@ -2,22 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hobbysalike.com/blog/my-first-post/</loc>
+    <loc>https://hobbysalike.com/</loc>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hobbysalike.com/youtube-uploads/my-first-video/</loc>
+    <loc>https://hobbysalike.com/youtube-uploads/saints-row-third-switch/</loc>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hobbysalike.com/youtube-uploads/</loc>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hobbysalike.com/blog/gpu-test/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hobbysalike.com/blog/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hobbysalike.com/youtube-uploads/youtube-adblock/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hobbysalike.com/about/</loc>
   </url><url>
-    <loc>https://hobbysalike.com/blog/</loc>
-  </url><url>
     <loc>https://hobbysalike.com/categories/</loc>
-  </url><url>
-    <loc>https://hobbysalike.com/</loc>
   </url><url>
     <loc>https://hobbysalike.com/series/</loc>
   </url><url>
     <loc>https://hobbysalike.com/tags/</loc>
-  </url><url>
-    <loc>https://hobbysalike.com/youtube-uploads/</loc>
   </url>
 </urlset>
